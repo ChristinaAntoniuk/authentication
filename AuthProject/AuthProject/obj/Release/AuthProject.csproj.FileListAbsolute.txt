@@ -1,0 +1,11 @@
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\bin\Release\AuthProject.exe.config
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\bin\Release\AuthProject.exe
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\bin\Release\AuthProject.pdb
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\obj\Release\AuthProject.AddForm.resources
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\obj\Release\AuthProject.AuthForm.resources
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\obj\Release\AuthProject.DeleteForm.resources
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\obj\Release\AuthProject.MainForm.resources
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\obj\Release\AuthProject.Properties.Resources.resources
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\obj\Release\AuthProject.csproj.GenerateResource.Cache
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\obj\Release\AuthProject.exe
+E:\KPI\5\InformationSecurity\Lab5\AuthProject\AuthProject\obj\Release\AuthProject.pdb
